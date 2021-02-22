@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class Mapa {
 
 	public static void main(String[] args) {
-
+     //Cria um Array List
 		ArrayList <Crianca> Criancas = new ArrayList<Crianca>(); 
 		Criancas.add(new Pedro());
 		Criancas.add(new Ana());
